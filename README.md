@@ -6,7 +6,7 @@ A Simple Model Program for Constructing DNA Sequence-base Phylogenetic Tree usin
 > supplementary of Tugas Makalah Matematika Diskrit IF1202 2024-2025
 
 ## Description
-+ This is a program that constructs a phylogenetic tree of specified organsims based on their DNA sequences. 
++ This is a program (__NJ_v2.py__) that constructs a phylogenetic tree of specified organsims based on their DNA sequences. 
 + The program <ins>receives a multiple sequence alignment (MSA) file in FASTA format of target organisms' DNA sequences.</ins>
 + Then, the program calculate pairwise distance between the sequences using __Kimura two-distance parameter model__ or __Jukes-Cantor model__, specified by the user upon input.
 + A phylogenetic tree will be constructed using __neighbour-joining algorithm__ and converted into a "Newick tree" format.
