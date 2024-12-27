@@ -5,7 +5,7 @@ A Simple Model Program for Constructing DNA Sequence-base Phylogenetic Tree usin
 
 > supplementary of Tugas Makalah Matematika Diskrit IF1202 2024-2025
 
-## 📝 Description
+## Description
 + This is a program (__NJ_v2.py__) that constructs a phylogenetic tree of specified organsims based on their DNA sequences. 
 + The program <ins>receives a multiple sequence alignment (MSA) file in FASTA format of target organisms' DNA sequences.</ins>
 + Then, the program calculate pairwise distance between the sequences using __Kimura two-distance parameter model__ or __Jukes-Cantor model__, specified by the user upon input.
@@ -16,7 +16,7 @@ A Simple Model Program for Constructing DNA Sequence-base Phylogenetic Tree usin
 + Matplotlib : `pip install matplotlib`
 + Biopython : `pip install Bio`
 
-## 🧬 Samples
+## Samples
 + Two MSA sample files are available (sample_1.fas and sample_2.fas)
 + Partial sequences of 16S rRNA gene retrieved from NCBI GenBank & RefSeq database are used
 + MSA was done through MEGA11 using MUSCLE algorithm
